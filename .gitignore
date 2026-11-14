@@ -2,3 +2,6 @@
 *.pdf
 .vscode/
 .DS_Store
+
+# Public English CV linked from the homepage
+!/files/Haozhe_Wu_CV.pdf
